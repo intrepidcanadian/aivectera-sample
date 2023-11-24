@@ -1,0 +1,1 @@
+This is the vectara sample for legal interpretations
